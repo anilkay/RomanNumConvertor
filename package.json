@@ -1,0 +1,14 @@
+{
+  "name": "romannumtoarabicnum",
+  "version": "0.0.8",
+  "description": "roman number to arabic (still used number)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "romannumbers"
+  ],
+  "author": "anilkay",
+  "license": "ISC"
+}
