@@ -1,5 +1,5 @@
 {
-  "name": "romannumtoarabicnum",
+  "name": "romannumberconvertor",
   "version": "0.0.8",
   "description": "roman number to arabic (still used number)",
   "main": "index.js",
@@ -10,5 +10,9 @@
     "romannumbers"
   ],
   "author": "anilkay",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anilkay/RomanNumConvertor.git"
+  }
 }
