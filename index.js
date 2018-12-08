@@ -100,4 +100,3 @@ result2=convert(r2);
 console.log(result);
 console.log(result2)
 module.exports=convert;*/
-console.log("log");
